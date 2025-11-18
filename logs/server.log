@@ -1,10 +1,11 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [300] using StatReload
-INFO:     Started server process [302]
+INFO:     Started reloader process [343] using StatReload
+INFO:     Started server process [345]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:34510 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:55976 - "GET /media HTTP/1.1" 200 OK
-INFO:     172.20.0.1:55978 - "GET /media HTTP/1.1" 200 OK
-INFO:     172.20.0.1:55976 - "GET /37b11b83b70231695723c989fe9a397b.jpg HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54880 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:43096 - "GET /media HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43112 - "GET /media HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43096 - "GET /2f8454dc7b67297f51ec4c4725d87e39.jpg HTTP/1.1" 304 Not Modified
+INFO:     172.20.0.1:43112 - "GET /37b11b83b70231695723c989fe9a397b.jpg HTTP/1.1" 304 Not Modified
